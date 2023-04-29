@@ -368,10 +368,11 @@ nav .fa-solid{
         margin-top: 0;
     }
     .container1{
-        height: 65vh;
+        height: 100vh;
     }
     .content1{
         width: 80%;
+        height: 40vh;
     }
     .content1 h1{
         font-size: 25px;
@@ -385,7 +386,7 @@ nav .fa-solid{
     }
     .container2{
         align-items: start;
-        height: 80vh;
+        height: 100Vh;
     }
     .incontainer {
         width: 100%;
@@ -477,7 +478,7 @@ nav .fa-solid{
         margin-bottom: 20px;
     }
     .container4{
-        height: 60vh;
+        height: 80vh;
         align-items: flex-start
     }
     .incontainer4{
@@ -497,7 +498,7 @@ nav .fa-solid{
         font-size: 26px;
     }
     .container5{
-        height: 110vh;
+        height: 130vh;
     }
     .incontainer5{
         width: 80%;
