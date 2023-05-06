@@ -63,7 +63,7 @@ video{
     width: 65%;
     /* border: 2px solid white;
     height: 200px; */
-    margin:50px auto;
+    margin:35px auto;
     text-align: center;
 }
 .content1 h1, p{
@@ -368,7 +368,11 @@ nav .fa-solid{
         margin-top: 0;
     }
     .container1{
-        height: 100vh;
+        height: 90vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
     }
     .content1{
         width: 80%;
@@ -382,11 +386,11 @@ nav .fa-solid{
         text-align: center;
     }
     .btn1{
-        margin: 20px auto;
+        margin: 30px auto;
     }
     .container2{
         align-items: start;
-        height: 100Vh;
+        height: auto;
     }
     .incontainer {
         width: 100%;
@@ -402,6 +406,7 @@ nav .fa-solid{
     .col1{
         width: 100%;
         height: auto;
+        margin-bottom: 10px;
     }
     .col1 span {
         font-size: 10px;
@@ -436,7 +441,7 @@ nav .fa-solid{
         width: 80%;
         height: 90%;
         justify-content: space-evenly;
-        margin: 0;
+        margin: 20px 0;
     }
     .image1{
         width: 100%;
@@ -498,7 +503,8 @@ nav .fa-solid{
         font-size: 26px;
     }
     .container5{
-        height: 130vh;
+        height: auto;
+        padding: 10px 0;
     }
     .incontainer5{
         width: 80%;
